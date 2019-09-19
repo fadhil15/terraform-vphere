@@ -1,6 +1,6 @@
-vsphere_user = "administrator@itb.local"
+vsphere_user = "administrator@kepo.lu"
 
-vsphere_password = "ruj@kc1ngUR"
+vsphere_password = "kepolu"
 
 vsphere_server = "vcsa2.itb.ac.id"
 
